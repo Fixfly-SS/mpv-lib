@@ -1,0 +1,4 @@
+framework module Libspirvcross [system] {
+    umbrella "."
+    export *
+}

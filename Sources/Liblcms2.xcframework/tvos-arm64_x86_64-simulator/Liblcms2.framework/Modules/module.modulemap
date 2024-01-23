@@ -1,0 +1,4 @@
+framework module Liblcms2 [system] {
+    umbrella "."
+    export *
+}
