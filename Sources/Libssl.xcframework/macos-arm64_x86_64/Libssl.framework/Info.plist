@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libssl</string>
+        <string>Libssl</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libssl</string>
         <key>CFBundleInfoDictionaryVersion</key>

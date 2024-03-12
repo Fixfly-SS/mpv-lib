@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libluajit</string>
+        <string>Libluajit</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libluajit</string>
         <key>CFBundleInfoDictionaryVersion</key>

@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libpng</string>
+        <string>Libpng</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libpng</string>
         <key>CFBundleInfoDictionaryVersion</key>

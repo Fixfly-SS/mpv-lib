@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libass</string>
+        <string>Libass</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libass</string>
         <key>CFBundleInfoDictionaryVersion</key>

@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libavformat</string>
+        <string>Libavformat</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libavformat</string>
         <key>CFBundleInfoDictionaryVersion</key>

@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libuchardet</string>
+        <string>Libuchardet</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libuchardet</string>
         <key>CFBundleInfoDictionaryVersion</key>

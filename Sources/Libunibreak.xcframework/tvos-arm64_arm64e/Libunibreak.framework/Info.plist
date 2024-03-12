@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libunibreak</string>
+        <string>Libunibreak</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libunibreak</string>
         <key>CFBundleInfoDictionaryVersion</key>

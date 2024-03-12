@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libavutil</string>
+        <string>Libavutil</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libavutil</string>
         <key>CFBundleInfoDictionaryVersion</key>

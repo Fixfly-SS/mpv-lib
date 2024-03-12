@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libavcodec</string>
+        <string>Libavcodec</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libavcodec</string>
         <key>CFBundleInfoDictionaryVersion</key>

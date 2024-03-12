@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libplacebo</string>
+        <string>Libplacebo</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libplacebo</string>
         <key>CFBundleInfoDictionaryVersion</key>

@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libdav1d</string>
+        <string>Libdav1d</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libdav1d</string>
         <key>CFBundleInfoDictionaryVersion</key>

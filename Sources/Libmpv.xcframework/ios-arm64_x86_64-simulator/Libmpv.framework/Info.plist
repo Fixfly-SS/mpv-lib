@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libmpv</string>
+        <string>Libmpv</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libmpv</string>
         <key>CFBundleInfoDictionaryVersion</key>

@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libshaderc</string>
+        <string>Libshaderc</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libshaderc</string>
         <key>CFBundleInfoDictionaryVersion</key>

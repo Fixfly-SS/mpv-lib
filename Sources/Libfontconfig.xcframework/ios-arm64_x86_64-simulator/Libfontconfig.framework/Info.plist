@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libfontconfig</string>
+        <string>Libfontconfig</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libfontconfig</string>
         <key>CFBundleInfoDictionaryVersion</key>

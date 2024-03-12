@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libfreetype</string>
+        <string>Libfreetype</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libfreetype</string>
         <key>CFBundleInfoDictionaryVersion</key>

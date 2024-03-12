@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libswresample</string>
+        <string>Libswresample</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libswresample</string>
         <key>CFBundleInfoDictionaryVersion</key>

@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libspirvcross</string>
+        <string>Libspirvcross</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libspirvcross</string>
         <key>CFBundleInfoDictionaryVersion</key>

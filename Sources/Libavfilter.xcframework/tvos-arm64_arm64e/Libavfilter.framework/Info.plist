@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libavfilter</string>
+        <string>Libavfilter</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libavfilter</string>
         <key>CFBundleInfoDictionaryVersion</key>

@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libfribidi</string>
+        <string>Libfribidi</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libfribidi</string>
         <key>CFBundleInfoDictionaryVersion</key>

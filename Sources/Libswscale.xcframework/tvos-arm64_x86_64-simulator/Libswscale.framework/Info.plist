@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>libswscale</string>
+        <string>Libswscale</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.libswscale</string>
         <key>CFBundleInfoDictionaryVersion</key>

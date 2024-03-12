@@ -5,7 +5,7 @@
         <key>CFBundleDevelopmentRegion</key>
         <string>en</string>
         <key>CFBundleExecutable</key>
-        <string>liblcms2</string>
+        <string>Liblcms2</string>
         <key>CFBundleIdentifier</key>
         <string>ss.fixfly.liblcms2</string>
         <key>CFBundleInfoDictionaryVersion</key>
